@@ -1,0 +1,2 @@
+- cd ~/.config/waybar
+- mv '[TOP] minha_waybar' configs
