@@ -22,8 +22,11 @@
 "modules-left": [
 	"hyprland/workspaces#pacman",
 	"custom/separator#dot-line",
-	"group/mobo_drawer",
-	"custom/separator#blank_3",
+	"temperature",
+	"cpu",
+	"memory",
+	"disk",
+	"custom/separator#dot-line",
 	"custom/cava_mviz",
 	"mpris"
 	],
